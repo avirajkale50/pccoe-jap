@@ -183,7 +183,7 @@ header{
 }
 
 .maincol:nth-child(1){
-  flex-basis: 45%;
+  flex-basis: 40%;
 }
 .maincol p{
   gap: 2px;
