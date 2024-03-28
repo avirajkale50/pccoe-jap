@@ -74,7 +74,7 @@ Users should be able to:
 
 ### Relationships
 
-![Cinemate ERD](https://ibb.co/sHNZTFb)
+![Cinemate ERD](https://i.imgur.com/ibi3G21.png)
 
 - The relation between the movie and the production house `movie_rel_prod`
 - The relation between the movie and the writer `movie_rel_writer`
